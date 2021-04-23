@@ -9,7 +9,7 @@ import {
  } from '@expo-google-fonts/jost';
 
 import Confirmation from './src/pages/Confirmation';
-// import 'react-native-gesture-handler';
+import 'react-native-gesture-handler';
 
 export default function App(){
   const [ fontsLoaded ] = useFonts({
